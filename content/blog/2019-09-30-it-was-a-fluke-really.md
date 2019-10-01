@@ -6,6 +6,8 @@ tags:
   - Blog
 draft: false
 ---
+> \[REPOST]
+>
 > I was on Facebook, like you do, when I came across a post about a former coworker and friend talking about the local bootcamp Code Louisville. It struck me. I don't know why I looked into it further. Curiosity. About the program, about what my potential could be.
 >
 > So I signed up. Eh, there's probably a waiting list. I'll get in there eventually maybe. I put it away from my mind and went back to my life of making coffee and lattes.
