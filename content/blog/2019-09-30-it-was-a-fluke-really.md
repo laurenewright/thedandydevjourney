@@ -2,7 +2,9 @@
 title: It was a fluke really
 date: 2019-10-01T01:02:42.871Z
 image: /images/b0225a14-d003-44f3-aaec-266d221257a8.jpeg
-draft: true
+tags:
+  - Blog
+draft: false
 ---
 > I was on Facebook, like you do, when I came across a post about a former coworker and friend talking about the local bootcamp Code Louisville. It struck me. I don't know why I looked into it further. Curiosity. About the program, about what my potential could be.
 >
