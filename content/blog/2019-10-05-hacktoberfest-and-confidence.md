@@ -6,7 +6,7 @@ tags:
   - web development
   - open source
   - Hacktober
-draft: true
+draft: false
 ---
 It's the most wonderful time of the year? Maybe, haha! Time again for Hacktoberfest and at the same time for me Preptober for Nanowrimo, which is next month. Oh boy, do I love projects. For Hacktoberfest though, I'm not quite sure what kind of projects I want to contribute to. I know I want to go to my local Open Source meetup and go to their Hacktoberfest presentation. It's fun to see the possibilities that are there for contributions. 
 
