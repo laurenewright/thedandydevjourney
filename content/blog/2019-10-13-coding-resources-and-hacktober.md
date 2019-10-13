@@ -5,7 +5,7 @@ image: /images/photo-1483817101829-339b08e8d83f.jpg
 tags:
   - resources
   - hacktober
-draft: true
+draft: false
 ---
 This week has been light on the person projects, but not light in the learning. Yesterday I spent the more relaxed end of my work day studying some SQL. It's some basic things, but I still think going over the basics again is useful. We use a lot of pre-written queries at work and despite my project using SQL I find that I struggle when actually writing my own queries. It is getting better and I am glad that I feel comfortable looking things up while I am at work. In the past I struggled much more with reaching out for help. I guess it was a bit of a pride thing, but more so it was a fear of not being perfect. I still strive to be as perfect at things I do as possible even though intellectually I know that that striving is futile.
 
