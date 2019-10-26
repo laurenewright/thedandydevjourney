@@ -4,7 +4,7 @@ date: 2019-10-23T11:46:23.565Z
 image: /images/03e2ed83-28b6-49e1-bc05-c09ab8fdb7ea.jpeg
 tags:
   - Planning
-draft: true
+draft: false
 ---
 You have a ton of resources to choose from and you have a passion to DO ALL THE THINGS! But hold on now. Don’t get overwhelmed with the sheer amount of stuff you can do and things you want to learn. Take a step back. Take a look at everything. Then pick one or two things out of all of that to focus on. This is important, as you are one person. You can only do and learn so much.You have a ton of resources to choose from and you have a passion to DO ALL THE THINGS! But hold on now. Don’t get overwhelmed with the sheer amount of stuff you can do and things you want to learn. Take a step back. Take a look at everything. Then pick one or two things out of all of that to focus on. This is important, as you are one person. You can only do and learn so much at a time.
 
