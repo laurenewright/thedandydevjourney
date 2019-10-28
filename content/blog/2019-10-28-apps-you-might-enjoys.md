@@ -1,5 +1,5 @@
 ---
-title: Apps You Might Enjoys
+title: Apps You Might Enjoy
 date: 2019-10-28T11:56:02.857Z
 image: /images/95191821-f43c-4f2c-97fb-e8bf5f65e3f1.jpeg
 draft: false
